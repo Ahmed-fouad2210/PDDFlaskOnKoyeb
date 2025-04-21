@@ -1,0 +1,5 @@
+flask==2.3.3
+pillow==10.2.0
+ultralytics==8.1.33
+werkzeug==3.0.1
+gunicorn==21.2.0
