@@ -3,4 +3,4 @@ Pillow==10.2.0
 ultralytics==8.3.107
 torch>=1.7.0
 numpy>=1.21.0
-opencv-python-headless>=4.7.0.72
+opencv-python>=4.7.0.72
